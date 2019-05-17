@@ -1,4 +1,4 @@
-# bachlor_thesis
+# Bachlor Thesis: Sports Data Analysis in the NFL.   
 Code I have written for my Bachlor Thesis
 
 Bachlor Arbeit V2.ipynb contains code for data loading, preprocessing, visualisation and evaluation. 
